@@ -59,7 +59,7 @@ To minimize the risk of accounts being flagged, all requests are performed via a
 ​​
 ​​
 ​​
-
+y
 - `join <user token> <server invite>` 
 
     example: `join OTQxNzYxKMNU1MTA4NTczMTg0.YiwqMM.rFh46A8_Y7MAQKqw9pOriwYuL_B discord.gg/pornhub`
@@ -67,6 +67,15 @@ To minimize the risk of accounts being flagged, all requests are performed via a
     returns:
     
     <img width="265" alt="Screen Shot 2022-05-22 at 7 45 29 PM" src="https://user-images.githubusercontent.com/105528391/169684496-6b7af0dc-7f8e-4951-b6c9-f3be5ed07ca9.png">
+
+​​
+​​
+​​
+
+- `clear`
+
+    example: `>clear` removes the bot's messages within the last 100 messages in the channel
+ 
 ​​
 ​​
 
