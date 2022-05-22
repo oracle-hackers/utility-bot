@@ -15,14 +15,30 @@ To minimize the risk of accounts being flagged, all requests are performed via a
 - mass ping
 - api
 
-# invite
-[click here](https://discord.com/oauth2/authorize?client_id=975381232374403092&amp;scope=bot%20applications.commands&amp;permissions=8)
+# how to use
+1. [invite the bot](https://discord.com/oauth2/authorize?client_id=975381232374403092&amp;scope=bot%20applications.commands&amp;permissions=8)
+2. try `>help`, `>info`
+3. enjoy!
 
-# bug reporitng
+## command details
+<> is required, [] is optional
+
+- `check <user token>`
+    example: `>check OTQxNzYxKMNU1MTA4NTczMTg0.YiwqMM.rFh46A8_Y7MAQKqw9pOriwYuL_B` 
+    returns: 
+        Invalid: <img width="261" alt="Screen Shot 2022-05-22 at 5 42 09 PM" src="https://user-images.githubusercontent.com/105528391/169680651-0bfeb6f9-4d49-4136-abca-c8e0ff907171.png">
+        Valid: <img width="605" alt="Screen Shot 2022-05-22 at 5 42 54 PM" src="https://user-images.githubusercontent.com/105528391/169680717-c459dbee-18b9-495d-8492-a46ab13f75d7.png">
+
+        
+
+    
+
+
+## bug reporitng
 [make an issue](https://github.com/oracle-hackers/utility-bot/issues)
 
-# feature suggestions
+## feature suggestions
 [make an issue](https://github.com/oracle-hackers/utility-bot/issues)
 
-# questions and support
+## questions and support
 [github discussions](https://github.com/oracle-hackers/utility-bot/discussions)
