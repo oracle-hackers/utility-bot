@@ -16,10 +16,13 @@ To minimize the risk of accounts being flagged, all requests are performed via a
 - api
 
 # invite
-https://discord.com/oauth2/authorize?client_id=975381232374403092&amp;scope=bot%20applications.commands&amp;permissions=8
+[click here](https://discord.com/oauth2/authorize?client_id=975381232374403092&amp;scope=bot%20applications.commands&amp;permissions=8)
 
 # bug reporitng
-simply make an issue
+[make an issue](https://github.com/oracle-hackers/utility-bot/issues)
 
 # feature suggestions
-make an issue or send a pull request
+[make an issue](https://github.com/oracle-hackers/utility-bot/issues)
+
+# questions and support
+[github discussions](https://github.com/oracle-hackers/utility-bot/discussions)
