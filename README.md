@@ -48,7 +48,6 @@ To minimize the risk of accounts being flagged, all requests are performed via a
 
 - `pfp <user token> [.png or .jpg image link]` if no image link given, a random image will be used
 
-    example: `>pfp OTQxNzYxKMNU1MTA4NTczMTg0.YiwqMM.rFh46A8_Y7MAQKqw9pOriwYuL_B`
     example: `>pfp OTQxNzYxKMNU1MTA4NTczMTg0.YiwqMM.rFh46A8_Y7MAQKqw9pOriwYuL_B https://i.imgur.com/4xB15OG.png` 
     returns:
     
