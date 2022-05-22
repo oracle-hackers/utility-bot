@@ -23,6 +23,8 @@ To minimize the risk of accounts being flagged, all requests are performed via a
 ## command details
 <> is required, [] is optional
 
+​​
+
 - `check <user token>`
 
     example: `>check OTQxNzYxKMNU1MTA4NTczMTg0.YiwqMM.rFh46A8_Y7MAQKqw9pOriwYuL_B` 
@@ -30,6 +32,8 @@ To minimize the risk of accounts being flagged, all requests are performed via a
 
     <img width="605" alt="Screen Shot 2022-05-22 at 5 42 54 PM" src="https://user-images.githubusercontent.com/105528391/169680717-c459dbee-18b9-495d-8492-a46ab13f75d7.png">
 
+​​
+​​
 
 - `setbio <user token> <bio>`
 
@@ -38,6 +42,8 @@ To minimize the risk of accounts being flagged, all requests are performed via a
     
     <img width="243" alt="Screen Shot 2022-05-22 at 6 28 02 PM" src="https://user-images.githubusercontent.com/105528391/169681920-08b03c3f-e6ad-41de-b55e-708ce6dc6852.png">
 
+​​
+​​
 
 - `pfp <user token> [.png or .jpg image link]` if no image link given, a random image will be used
 
@@ -47,13 +53,18 @@ To minimize the risk of accounts being flagged, all requests are performed via a
     
     <img width="411" alt="Screen Shot 2022-05-22 at 6 54 27 PM" src="https://user-images.githubusercontent.com/105528391/169682872-d92e57ba-478c-4015-a2a3-8d761b07dcfb.png">
 
+​​
+​​
+
 - `join <user token> <server invite (https://discord.gg/, discord.com/invite/, discordapp.com/invite/)>`
 
     example: `join OTQxNzYxKMNU1MTA4NTczMTg0.YiwqMM.rFh46A8_Y7MAQKqw9pOriwYuL_B https://discord.gg/`
     returns:
     
     <img width="265" alt="Screen Shot 2022-05-22 at 7 45 29 PM" src="https://user-images.githubusercontent.com/105528391/169684496-6b7af0dc-7f8e-4951-b6c9-f3be5ed07ca9.png">
-
+    
+​​
+​​
 
 ## bug reporitng
 [make an issue](https://github.com/oracle-hackers/utility-bot/issues)
