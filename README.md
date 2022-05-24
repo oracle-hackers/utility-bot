@@ -75,6 +75,14 @@ y
 - `clear`
 
     example: `>clear` removes the bot's messages within the last 100 messages in the channel
+
+​​
+​​
+​​
+
+- `send`
+
+    example: `>send https://discord.com/api/webhooks/392759374855243196/pY5oDkfmyV7f9qsQFdXSgE158191KmdkMkKtC0VijjczE4RDc8rtoC-Qfy7Okj1KdmaAi hello monkeys
  
 ​​
 ​​
