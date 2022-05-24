@@ -59,7 +59,7 @@ To minimize the risk of accounts being flagged, all requests are performed via a
 ​​
 ​​
 ​​
-y
+
 - `join <user token> <server invite>` 
 
     example: `join OTQxNzYxKMNU1MTA4NTczMTg0.YiwqMM.rFh46A8_Y7MAQKqw9pOriwYuL_B discord.gg/pornhub`
@@ -72,20 +72,26 @@ y
 ​​
 ​​
 
+- `send <discord webhook url> <message to send>`
+
+    example: `>send https://discord.com/api/webhooks/392759374855243196/pY5oDkfmyV7f9qsQFdXSgE158191KmdkMkKtC Ai hello monkeys`
+    
+    returns:
+    
+    <img width="286" alt="image" src="https://user-images.githubusercontent.com/72248782/169989083-619fc464-85c3-4678-a5cb-f227f8d74d89.png">
+
+    
+​​
+​​
+​​
+
 - `clear`
 
     example: `>clear` removes the bot's messages within the last 100 messages in the channel
 
 ​​
 ​​
-​​
 
-- `send`
-
-    example: `>send https://discord.com/api/webhooks/392759374855243196/pY5oDkfmyV7f9qsQFdXSgE158191KmdkMkKtC0VijjczE4RDc8rtoC-Qfy7Okj1KdmaAi hello monkeys
- 
-​​
-​​
 
 ## bug reporitng
 [make an issue](https://github.com/oracle-hackers/utility-bot/issues)
