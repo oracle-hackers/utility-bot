@@ -1,7 +1,7 @@
 # utility bot made with [Utilities API](https://bit.ly/utilitiesapifromutilitybotgithubreadme)
 Utility is a discord bot written using a custom library that makes using Discord User Tokens easy.
 
-To minimize the risk of accounts being flagged, all requests are performed via a selection of HQ rotating residential proxies, custom written headers, as well as complete json (all extra parameters). These and other security features make the request seem as they come from a selection of device types, resolutions, app/browser/mobile etc; ultimately making them ultra utltra realistic. **However**, there is no guarantee your accounts are 100% safe; even if you are a real user, changing things too fast/setting off the sus-o-meter of an account will get it locked.
+To minimize the risk of accounts being flagged, all requests are performed via a selection of HQ rotating residential proxies, custom written headers, as well as complete json (all extra parameters). These and other security features make the requests seem as they come from a selection of device types, resolutions, app/browser/mobile etc; ultimately making them ultra utltra realistic. **However**, there is no guarantee your accounts are 100% safe; even if you are a real user, changing things too fast/setting off the sus-o-meter of an account will get it locked.
 
 # features
 - check tokens, and show information about said account
